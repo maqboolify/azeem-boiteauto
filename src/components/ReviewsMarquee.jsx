@@ -217,7 +217,7 @@ export default function ReviewsMarquee() {
         <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 7 }}>
           <Stars count={5} dim />
           <span style={{ fontSize: 14, fontWeight: 500, color: "#f5f5f7" }}>4.9</span>
-          <span style={{ fontSize: 13, color: "#6e6e73" }}>· 230 avis</span>
+          <span style={{ fontSize: 13, color: "#6e6e73" }}>· 241 avis</span>
         </div>
       </div>
 

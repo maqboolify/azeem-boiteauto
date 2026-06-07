@@ -1003,7 +1003,7 @@ function CTABanner() {
               Prendre rendez-vous
             </motion.button>
             <p style={{ fontFamily: "DM Sans, sans-serif", color: "rgba(255,255,255,0.7)", fontSize: 13, textAlign: "center", margin: 0 }}>
-              📞 01 45 14 72 54
+              📞+33 6 64 41 23 76
             </p>
           </div>
         </motion.div>

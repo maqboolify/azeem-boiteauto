@@ -330,7 +330,7 @@ const ContactCTA = () => {
             className="inline-flex items-center justify-center gap-2 bg-red-700 text-white font-bold px-8 py-3.5 rounded-xl text-sm hover:bg-red-800 transition-colors"
           >
             {/* ← REPLACE: your phone number */}
-            📞 0X XX XX XX XX
+            📞 +33 6 64 41 23 76
           </motion.a>
         </div>
       </div>

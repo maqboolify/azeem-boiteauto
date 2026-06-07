@@ -18,6 +18,7 @@ import TransmissionsAutomatiques from './components/TransmissionsAutomatiques'
 import MechatronicsPage from './components/Mechatronicspage'
 import ItemPage from './components/ItemPage'
 import GearboxCatalog from './components/Gearboxcatalog'
+import ImaAicha from './components/ImaAicha'
 function App() {
   return (
     <>
@@ -26,6 +27,7 @@ function App() {
       <Routes>
         
         <Route path="/" element={<Hero />} />
+        {/* <Route path="/" element={<ImaAicha />} /> */}
         
         <Route path="/contact" element={<Contact />} />
         <Route path="/pieces/calculateurs" element={<Calculators />} />

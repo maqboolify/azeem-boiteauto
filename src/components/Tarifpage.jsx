@@ -1033,10 +1033,10 @@ export default function TarifPage() {
                     </svg>
                   </Link>
                   <Link
-                    to="tel:0145147254"
+                    to="tel:+33 6 64 41 23 76"
                     className="inline-flex items-center gap-2 font-semibold text-xs uppercase tracking-wider h-[50px] px-8 rounded-full border border-gray-300 text-gray-600 hover:text-gray-900 hover:border-gray-500 transition-all duration-300 whitespace-nowrap"
                   >
-                    01 45 14 72 54
+                   +33 6 64 41 23 76
                   </Link>
                 </div>
               </div>

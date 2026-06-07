@@ -44,8 +44,13 @@ const slides = [
     tag: "Mécatronique",
     title: (
       <>
-        Réparation Bloc<br />
-        Mécatronique
+         <h1 className="text-3xl md:text-5xl font-light text-center">
+          &laquo;Votre voiture n&rsquo;a aucun secret pour moi.&raquo;
+        </h1>
+
+        <p className="text-2xl md:text-4xl font-light text-right mt-6">
+          Azeem.
+        </p>
       </>
     ),
     titleText: "Réparation Bloc Mécatronique",
