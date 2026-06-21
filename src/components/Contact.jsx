@@ -4,9 +4,9 @@ import emailjs from "@emailjs/browser";
 import { Link } from "react-router-dom";
 // ─── EMAILJS CONFIG ──────────────────────────────────────────────────────────
 // 🔑 Paste your own EmailJS credentials here:
-const EMAILJS_SERVICE_ID  = "service_t9wyhci";   // e.g. "service_xxxxxxx"
-const EMAILJS_TEMPLATE_ID = "template_9gj0dhs";  // e.g. "template_xxxxxxx"
-const EMAILJS_PUBLIC_KEY  = "09iZyP_yUrwHYvgmS";   // e.g. "AbCdEfGhIjKlMnOp"
+const EMAILJS_SERVICE_ID  = "service_xx3ethq";   // e.g. "service_xxxxxxx"
+const EMAILJS_TEMPLATE_ID = "template_fyge9uw";  // e.g. "template_xxxxxxx"
+const EMAILJS_PUBLIC_KEY  = "JkBiNDZALomDMzpnz";   // e.g. "AbCdEfGhIjKlMnOp"
 
 // ─── ALL MODELS PER BRAND ────────────────────────────────────────────────────
 const BRAND_MODELS = {
