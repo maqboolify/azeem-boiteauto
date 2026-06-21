@@ -146,8 +146,8 @@ const INFO_CARDS = [
       </svg>
     ),
     label: "Email",
-    value: "contact@bap-paris.fr",
-    href: "mailto:contact@bap-paris.fr",
+    value: "atelierazeem@gmail.com",
+    href: "mailto:atelierazeem@gmail.com",
   },
   {
     icon: (

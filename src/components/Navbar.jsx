@@ -691,7 +691,7 @@ export default function Navbar() {
               </button>
               <Link to="/" className="flex items-center shrink-0 -my-4">
   <img
-    src="/images/logo.png"
+    src="/images/logu.png"
     alt="BAP Paris Auto Garage"
     className="h-[110px] md:h-[150px] w-auto object-contain mix-blend-multiply"
   />

@@ -51,6 +51,9 @@ const slides = [
         <p className="text-2xl md:text-4xl font-light text-right mt-6">
           Azeem.
         </p>
+        <h1 className="text-3xl md:text-5xl font-light bg-gradient-to-r from-[#ff2a2a] via-[#db0000] to-[#8b0000] bg-clip-text text-transparent">
+  Mécatronique
+</h1>
       </>
     ),
     titleText: "Réparation Bloc Mécatronique",

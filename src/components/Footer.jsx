@@ -73,7 +73,7 @@ export default function BapParis() {
       {/* Logo Image (replaces text) */}
       <a href="/" className="relative z-10 mb-2">
         <img
-          src="/images/logo.png"
+          src="/images/logu.png"
           alt="BAP Paris Auto Garage"
           className="h-[130px] md:h-[170px] w-auto object-contain"
           style={{ filter: "drop-shadow(0 0 18px rgba(219,0,0,0.45))" }}
