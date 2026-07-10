@@ -221,11 +221,11 @@ function TopBar() {
         ))}
         <span className="w-px h-4 bg-white/10 mx-1" />
         <Link
-          to="tel:+33145147254"
+          to="tel:+33664412376"
           className="flex items-center gap-2 text-white/60 hover:text-white text-[11px] uppercase tracking-widest font-medium transition-colors duration-200"
         >
           <PhoneIcon />
-          HOTLINE : +33 1 45 14 72 54
+          HOTLINE : +33 6 64 41 23 76
         </Link>
       </div>
       <div className="flex items-center gap-5">
@@ -398,8 +398,8 @@ function MobileDrawer({ open, onClose }) {
           ))}
         </nav>
         <div className="px-5 py-5 border-t border-gray-100 bg-gray-50 space-y-2">
-          <Link to="tel:+33145147254" className="flex items-center gap-3 text-[13px] text-[#444] hover:text-[#db0000] transition-colors">
-            <PhoneIcon /> +33 1 45 14 72 54
+          <Link to="tel:++33664412376" className="flex items-center gap-3 text-[13px] text-[#444] hover:text-[#db0000] transition-colors">
+            <PhoneIcon /> +33 6 64 41 23 76
           </Link>
           <div className="flex gap-4 pt-2">
             {[FacebookIcon, InstagramIcon, TwitterIcon, YoutubeIcon].map((Icon, i) => (
