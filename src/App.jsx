@@ -30,19 +30,19 @@ function App() {
         {/* <Route path="/" element={<ImaAicha />} /> */}
         
         <Route path="/contact" element={<Contact />} />
-        <Route path="/pieces/calculateurs" element={<Calculators />} />
-        <Route path="/pieces/boites" element={<TransmissionsAutomatiques />} />
-        <Route path="/articles" element={<ItemPage />} />
-        <Route path="/services/diagnostic"element={<DiagnosticPage />} />
-        <Route path="/tarifs"element={<TarifPage />} />
-        <Route path="/services/vidange"element={<VidangePage />} />
-        <Route path="/services/reparation"element={<ReparationPage />} />
-        <Route path="/services/montage"element={<MontagePage />} />
-        <Route path="/services/mecatronique"element={<MecatroniquePage />} />
-        <Route path="/pieces/mecatroniques"element={<MechatronicsPage />} />
-        <Route path="/ressources/type-de-bva"element={<TypeDeBVAPage />} />
-        <Route path="/ressources/faq"element={<FaqPage />} />
-        <Route path="/pieces/manuelles"element={<GearboxCatalog />} />
+        <Route path="/pieces/calculateurss" element={<Calculators />} />
+        <Route path="/pieces/boitess" element={<TransmissionsAutomatiques />} />
+        <Route path="/articless" element={<ItemPage />} />
+        <Route path="/services/diagnostics"element={<DiagnosticPage />} />
+        <Route path="/tarifss"element={<TarifPage />} />
+        <Route path="/services/vidanges"element={<VidangePage />} />
+        <Route path="/services/reparations"element={<ReparationPage />} />
+        <Route path="/services/montages"element={<MontagePage />} />
+        <Route path="/services/mecatroniques"element={<MecatroniquePage />} />
+        <Route path="/pieces/mecatroniquess"element={<MechatronicsPage />} />
+        <Route path="/ressources/type-de-bvas"element={<TypeDeBVAPage />} />
+        <Route path="/ressources/faqs"element={<FaqPage />} />
+        <Route path="/pieces/manuelless"element={<GearboxCatalog />} />
 
 
 
